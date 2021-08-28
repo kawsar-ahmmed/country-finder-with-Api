@@ -1,0 +1,13 @@
+.new-class {
+  background-color: rgb(218, 218, 218);
+  padding: 30px;
+  text-align: center;
+}
+.new-class img {
+  width: 150px;
+}
+#new-id {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
